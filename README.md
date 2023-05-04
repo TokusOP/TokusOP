@@ -1,5 +1,7 @@
 ## Hello 🐱
 
+![1 db67Wrfx5At0KeZtBgbpRw](https://user-images.githubusercontent.com/95270852/236334414-1b92ba0f-1465-4768-bff3-c436a793e18b.png)
+
 My name is Tokus, I'am from Chile (Los volcanes🎣)
 
 * I'm learning HTML to make a page garbage for my projects
@@ -15,5 +17,5 @@ My name is Tokus, I'am from Chile (Los volcanes🎣)
 
 My Gmail
 > tokuspocus@gmail.com
-~
-![tumblr_odbp5zQl6I1umqln3o1_400](https://user-images.githubusercontent.com/95270852/236334117-b7e6f2f7-0625-42d2-8c33-a0a160c70955.gif)
+
+
