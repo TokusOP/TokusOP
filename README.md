@@ -1,7 +1,6 @@
 ### Hello 👋,  
 #### My name is Tokus, I'am from Chile (💀Ñuñoa🎣)
-![My name is Tokus, I'am from Chile (💀Ñuñoa🎣)](Https://raw.githubusercontent.com/TokusOP/TokusOP/main/popu.png)
-
+![My name is Tokus, I'am from Chile (💀Ñuñoa🎣)](https://raw.githubusercontent.com/TokusOP/TokusOP/main/popu.png)
 I'm learning HTML to do projects and stuff for fun and stuff
 
 Skills: NOTHING/DRAW
