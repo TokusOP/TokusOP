@@ -1,6 +1,5 @@
 ### Hi there 👋,  
 #### My name is Tokus, I'am from Chile (💀Ñuñoa🎣)
-![My name is Tokus, I'am from Chile (💀Ñuñoa🎣)]
 
 I'm learning HTML to do projects and stuff for fun and stuff
 
