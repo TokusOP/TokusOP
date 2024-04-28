@@ -6,7 +6,7 @@ I'm learning HTML to do projects and stuff for fun and stuff
 Skills: NOTHING/DRAW
 
 - 🌱 I’m currently learning HTLM 
-- 😄 Pronouns: He/Him/His 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: fart
 
 
