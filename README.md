@@ -17,11 +17,11 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 <div align="center">
 <a href="https://github.com/TokusOP/TokusOP.github.io" target="_blank"><img src="https://github.com/user-attachments/assets/a8bf6fcb-b6ff-48af-92ad-c9b1754a106d" width="400" alt=">Proyecto<"></a>
 <p>
-<a href="[[LINK AL PROYECTO DESPLEGADO]](https://tokusop.github.io/)" target="_blank">
+<a href="https://tokusop.github.io/" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Deploy-25D366?style=for-the-badge">
 </a>
 </p>
-<p>Breve descripción de tu proyecto y las tecnologías usadas.</p>
+<p>una pagina simple hecha con html, css, javascript y mucho arroz</p>
 </div>
 </tr>
 </table>
