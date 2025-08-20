@@ -15,9 +15,9 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 <td width="50%">
 <h3 align="center">WebPage/Portafolio tematico de Windows XP</h3>
 <div align="center">
-<a href="[[LINK A TU PROYECTO EN GITHUB]](https://github.com/TokusOP/TokusOP.github.io)" target="_blank"><img src="![Image](https://github.com/user-attachments/assets/a8bf6fcb-b6ff-48af-92ad-c9b1754a106d)" width="400" alt=""></a>
+<a href="[[LINK A TU PROYECTO EN GITHUB]](https://github.com/TokusOP/TokusOP.github.io)" target="_blank"><img src="![Image](https://github.com/user-attachments/assets/a8bf6fcb-b6ff-48af-92ad-c9b1754a106d)" width="400" alt="Zelda del proyecto"></a>
 <p>
-<a href="[LINK AL PROYECTO DESPLEGADO]" target="_blank">
+<a href="[[LINK AL PROYECTO DESPLEGADO]](https://tokusop.github.io/)" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Deploy-25D366?style=for-the-badge">
 </a>
 </p>
