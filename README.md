@@ -4,7 +4,7 @@
 
 # Hola, soy Tokus 👋
 
-Soy un desarrollador frontend de Chile 🇨🇱 apasionado por crear experiencias web interactivas y estéticas. Me encanta transformar ideas en código y siempre estoy buscando aprender nuevas tecnologías. Cuando no estoy programando, me encontrarás explorando mundos en videojuegos.
+Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web interactivas y estéticas. Me encanta transformar ideas en código y siempre estoy buscando aprender nuevas tecnologías. Cuando no estoy programando, me encontrarás explorando mundos en videojuegos.
 
 ---
 
@@ -23,19 +23,6 @@ Soy un desarrollador frontend de Chile 🇨🇱 apasionado por crear experiencia
 </p>
 <p>Breve descripción de tu proyecto y las tecnologías usadas.</p>
 </div>
-</td>
-<td width="50%">
-<h3 align="center">Nombre del Proyecto 2</h3>
-<div align="center">
-<a href="[LINK A TU PROYECTO EN GITHUB]" target="_blank"><img src="[LINK A UNA IMAGEN O GIF DE TU PROYECTO]" width="400" alt="Vista previa del proyecto 2"></a>
-<p>
-<a href="[LINK AL PROYECTO DESPLEGADO]" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Deploy-25D366?style=for-the-badge">
-</a>
-</p>
-<p>Breve descripción de tu proyecto y las tecnologías usadas.</p>
-</div>
-</td>
 </tr>
 </table>
 
