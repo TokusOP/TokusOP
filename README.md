@@ -23,7 +23,6 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 <p>una pagina simple hecha con html, css, javascript y mucho arroz</p>
 </div>
 </tr>
-<tr>
 <td width="50%">
 <h3 align="center">Terminal Aestetic vibe pinterest</h3>
 <div align="center">
