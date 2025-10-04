@@ -109,10 +109,6 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
   <a href="https://steamcommunity.com/id/TokusOP" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   </a>
-  <a href="https://open.spotify.com/user/31pffhqseqzjil2sr7gxl62ggc6e" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TokusOP&color=25D366&style=flat-square" alt="Profile views">
