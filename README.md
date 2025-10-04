@@ -89,11 +89,17 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 </div>
 
 ---
-## 🎵 Mi Vibra Musical
+
+## 🎵 Mi Música
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pffhqseqzjil2sr7gxl62ggc6e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=25d366&bar_color_cover=false" alt="Spotify Now Playing">
+  <a href="https://open.spotify.com/user/31pffhqseqzjil2sr7gxl62ggc6e">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <br>
+  <img src="https://spotify-readme-phi.vercel.app/api?user=31pffhqseqzjil2sr7gxl62ggc6e&theme=dark" alt="Spotify Stats">
 </p>
+
 ---
 
 ## 📫 Conectemos
