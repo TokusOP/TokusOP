@@ -13,12 +13,6 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 
 ---
 
-## 🎵 Actualmente Escuchando
-
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31pffhqseqzjil2sr7gxl62ggc6e)
-
----
-
 ## 🚀 Mis Proyectos Destacados
 
 <table>
@@ -94,6 +88,12 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TokusOP&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🎵 Actualmente Escuchando
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31pffhqseqzjil2sr7gxl62ggc6e)
 
 ---
 
