@@ -25,15 +25,15 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Nombre del Proyecto 2</h3>
+<h3 align="center">Terminal Aestetic Pinterest</h3>
 <div align="center">
-<a href="[LINK A TU PROYECTO EN GITHUB]" target="_blank"><img src="[LINK A UNA IMAGEN O GIF DE TU PROYECTO]" width="400" alt="Vista previa del proyecto 2"></a>
+<a href="https://github.com/TokusOP/Aestetic-terminal" target="_blank"><img src="[LINK A UNA IMAGEN O GIF DE TU PROYECTO]" width="400" alt="Vista previa del proyecto 2"></a>
 <p>
-<a href="[LINK AL PROYECTO DESPLEGADO]" target="_blank">
+<a href="https://tokusop.github.io/Aestetic-terminal/" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Deploy-25D366?style=for-the-badge">
 </a>
 </p>
-<p>Breve descripción de tu proyecto y las tecnologías usadas.</p>
+<p>Mini pagina hecha con javascript, html y css</p>
 </div>
 </td>
 </tr>
