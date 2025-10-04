@@ -9,31 +9,33 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 
 ## 🚀 Mis Proyectos Destacados
 
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">WebPage/Portafolio tematico de Windows XP</h3>
+<h3 align="center">Nombre del Proyecto 1</h3>
 <div align="center">
-<a href="https://github.com/TokusOP/TokusOP.github.io" target="_blank"><img src="https://github.com/user-attachments/assets/a8bf6fcb-b6ff-48af-92ad-c9b1754a106d" width="400" alt=">Proyecto<"></a>
+<a href="[LINK A TU PROYECTO EN GITHUB]" target="_blank"><img src="[LINK A UNA IMAGEN O GIF DE TU PROYECTO]" width="400" alt="Vista previa del proyecto 1"></a>
 <p>
-<a href="https://tokusop.github.io/" target="_blank">
+<a href="[LINK AL PROYECTO DESPLEGADO]" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Deploy-25D366?style=for-the-badge">
 </a>
 </p>
-<p>una pagina simple hecha con html, css, javascript y mucho arroz</p>
+<p>Breve descripción de tu proyecto y las tecnologías usadas.</p>
 </div>
-</tr>
+</td>
 <td width="50%">
-<h3 align="center">Terminal Aestetic vibe pinterest</h3>
+<h3 align="center">Nombre del Proyecto 2</h3>
 <div align="center">
-<a href="https://github.com/TokusOP/Aestetic-terminalhttps://github.com/TokusOP/Aestetic-terminal" target="_blank"><img src="https://github.com/user-attachments/assets/a8bf6fcb-b6ff-48af-92ad-c9b1754a106d" width="400" alt=">Proyecto<"></a>
+<a href="[LINK A TU PROYECTO EN GITHUB]" target="_blank"><img src="[LINK A UNA IMAGEN O GIF DE TU PROYECTO]" width="400" alt="Vista previa del proyecto 2"></a>
 <p>
-<a href="https://tokusop.github.io/Aestetic-terminal/" target="_blank">
+<a href="[LINK AL PROYECTO DESPLEGADO]" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Deploy-25D366?style=for-the-badge">
 </a>
 </p>
-<p>una terminal falsa para poner textos aestetics</p>
+<p>Breve descripción de tu proyecto y las tecnologías usadas.</p>
 </div>
+</td>
 </tr>
 </table>
 ---
