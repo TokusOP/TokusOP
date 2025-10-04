@@ -28,7 +28,7 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">WebPage/Portafolio tematico de Windows XP</h3>
+<h3 align="center">Terminal Aestetic vibe pinterest</h3>
 <div align="center">
 <a href="https://github.com/TokusOP/Aestetic-terminalhttps://github.com/TokusOP/Aestetic-terminal" target="_blank"><img src="https://github.com/user-attachments/assets/a8bf6fcb-b6ff-48af-92ad-c9b1754a106d" width="400" alt=">Proyecto<"></a>
 <p>
@@ -36,7 +36,7 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 <img src="https://img.shields.io/badge/Ver%20Deploy-25D366?style=for-the-badge">
 </a>
 </p>
-<p>una pagina simple hecha con html, css, javascript y mucho arroz</p>
+<p>una terminal falsa para poner textos aestetics</p>
 </div>
 </tr>
 </table>
