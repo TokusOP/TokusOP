@@ -93,7 +93,7 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 ## 🎵 Actualmente
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tu_usuario&cover_image=true&theme=default&bar_color=25d366&bar_color_cover=true" alt="Spotify">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pffhqseqzjil2sr7gxl62ggc6e&cover_image=true&theme=default&bar_color=25d366&bar_color_cover=true" alt="Spotify">
 </p>
 
 ---
