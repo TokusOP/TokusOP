@@ -13,6 +13,12 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 
 ---
 
+## 🎵 Actualmente Escuchando
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31pffhqseqzjil2sr7gxl62ggc6e)
+
+---
+
 ## 🚀 Mis Proyectos Destacados
 
 <table>
@@ -70,8 +76,9 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🎮 Gaming
+### 🎮 Entretenimiento
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ---
@@ -90,11 +97,6 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 
 ---
 
-## 🎵 Actualmente Escuchando
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pffhqseqzjil2sr7gxl62ggc6e)
-
----
-
 ## 📫 Conectemos
 
 <p align="center">
@@ -102,10 +104,13 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://youtube.com/@TokusOP" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-Archive-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Archive">
   </a>
   <a href="https://steamcommunity.com/id/TokusOP" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  </a>
+  <a href="https://open.spotify.com/user/31pffhqseqzjil2sr7gxl62ggc6e" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </p>
 
