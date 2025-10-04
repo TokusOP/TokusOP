@@ -72,7 +72,7 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 
 ### 🎮 Gaming
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![YouTube Gaming](https://img.shields.io/badge/YouTube_Gameplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ---
 
