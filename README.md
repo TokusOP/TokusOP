@@ -91,12 +91,7 @@ Soy un desarrollador de Chile 🇨🇱 apasionado por crear experiencias web int
 ---
 
 ## 🎵 Actualmente Escuchando
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31pffhqseqzjil2sr7gxl62ggc6e">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pffhqseqzjil2sr7gxl62ggc6e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=25d366&bar_color_cover=true" alt="Spotify Now Playing">
-  </a>
-</p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pffhqseqzjil2sr7gxl62ggc6e)
 
 ---
 
